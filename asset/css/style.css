@@ -1,0 +1,23 @@
+/* Estilos personalizados */
+.main-section {
+  background: url("/asset/img/img-main.jpg") no-repeat center center;
+  background-size: cover;
+  height: 30vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
+}
+.card {
+  margin-bottom: 20px;
+}
+
+.card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.espacio-abajo {
+  height: 100px;
+}
