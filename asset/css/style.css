@@ -1,6 +1,6 @@
 /* Estilos personalizados */
 .main-section {
-  background: url("./asset/img/img-main.jpg") no-repeat center center;
+  background: url("/asset/img/img-main.jpg") no-repeat center center;
   background-size: cover;
   height: 30vh;
   display: flex;
